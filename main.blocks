@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Veczkn6lGk-zo%)Uv9+A">myImage</variable><variable type="RadioMessage" id="_D9@=Uiy9(TQo7=#oZx6">0message1</variable></variables><block type="device_gesture_event" id="z@?7EC)N(k$Z]_NB:Gw)" x="0" y="0"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="basic_show_icon" id="IqP?*cYl1#?[J-|SxW^x"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_gesture_event" id="O,$EaBugKoZv-4eHGn*;" x="258" y="32"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="^Cgx|gp/6oEiN4U23t10"><field name="LEDS">`
+        # . . . # 
+        . # # # . 
+        . . . . . 
+        . # . # . 
+        . . . . .
+        `</field></block></statement></block></xml>
